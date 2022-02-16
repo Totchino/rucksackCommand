@@ -1,0 +1,7 @@
+site_name: Mon refuge de commandes
+site_url: ""
+nav:
+    - Home: index.md
+    - Commandes: commandes.md
+    - About: about.md
+theme: readthedocs    
